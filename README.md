@@ -1,5 +1,5 @@
 # Multi-view Contrastive Learning for Entity Typing over Knowledge Graph
-#### This repo provides the source code & data of our paper: Multi-view Contrastive Learning for Entity Typing over Knowledge Graph.
+#### This repo provides the source code & data of our paper: [Multi-view Contrastive Learning for Entity Typing over Knowledge Graph](https://arxiv.org/pdf/2310.12008.pdf).
 ## Dependencies
 * conda create -n mclet python=3.7 -y
 * PyTorch 1.8.1
