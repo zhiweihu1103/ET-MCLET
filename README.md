@@ -23,7 +23,7 @@ sh YAGO43kET.sh
 If you find this code useful, please consider citing the following paper.
 ```
 @article{
-  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and and Ru Li and Jeff Z. Pan},
+  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and Ru Li and Jeff Z. Pan},
   title={Multi-view Contrastive Learning for Entity Typing over Knowledge Graph},
   publisher="The Conference on Empirical Methods in Natural Language Processing",
   year={2023}
